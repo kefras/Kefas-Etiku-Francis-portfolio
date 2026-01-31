@@ -58,7 +58,6 @@ Each project includes:
 
 ![Portfolio Preview](./preview.png)
 
-*(You can add a screenshot named `preview.png` in this repo for a visual preview.)*
 
 ---
 
