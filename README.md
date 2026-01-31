@@ -35,7 +35,6 @@ I enjoy building responsive, user-centered web experiences using modern web tech
 - **JavaScript (Vanilla)**
 - **Git & GitHub**
 - **Netlify (Deployment)**
-
 ---
 
 ## 📂 Projects Included
@@ -46,6 +45,7 @@ Some highlighted projects featured on the portfolio:
 - **MivaHub** – Academic team project demonstrating UI design and collaboration  
 - **RentDeport** – Property rental landing page with UX-focused forms  
 - **Bigasheqzi** – Marketing/landing page with clean typography  
+- **My Graphic Design Portfolio** - Designed social media graphics, flyers, and promotional visuals.
 
 Each project includes:
 - Tech stack used
