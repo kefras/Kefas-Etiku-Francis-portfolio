@@ -1,68 +1,56 @@
-# Kefas Etiku Francis – Portfolio Website
+# Kefas Etiku Francis — Personal Portfolio
 
-This repository contains the source code for my personal portfolio website, built to showcase my skills, projects, and background as a Computer Science student and Frontend Web Developer.
+This is my **personal portfolio website**, built to showcase my skills, projects, and experience as a **Frontend / Web Developer**. The portfolio highlights responsive design, clean UI, and real-world projects completed through internships, academic work, and personal practice.
 
-🔗 **Live Website:** https://kefasetikufrancis.netlify.app
+## 🚀 Project Overview
+The portfolio serves as a central hub for:
+- My professional background
+- Selected frontend projects
+- Technical skills and tools
+- Contact information for collaboration and opportunities
 
----
-
-## 👋 About Me
-
-Hi, I’m **Kefas Etiku Francis**, a Computer Science student at **Miva Open University** with a strong interest in frontend development, UI/UX, accessibility, and cloud computing.
-
-I enjoy building responsive, user-centered web experiences using modern web technologies and deploying real-world projects.
-
-- 🎓 B.Sc. Computer Science (Expected 2027)
-- 📍 Abuja, Nigeria
-- 💡 Interests: UI/UX, Accessibility, Cloud & Security
-
----
-
-## 🚀 Features
-
-- Fully responsive design (mobile & desktop)
-- Clean and modern UI
-- Accessible and user-friendly layout
-- Project showcase with live demos and source code
-- Hosted and deployed on Netlify
-
----
+It is designed to be **responsive, accessible, and user-centered**, following modern frontend best practices.
 
 ## 🛠️ Tech Stack
+- **HTML5** – Semantic structure and accessibility  
+- **CSS3** – Responsive layouts, modern styling  
+- **JavaScript (ES6+)** – Interactivity and UI behavior  
+- **Font Awesome** – Icons  
+- **Google Fonts (Inter)** – Typography  
+- **Netlify** – Hosting and deployment  
 
-- **HTML5**
-- **CSS3**
-- **JavaScript (Vanilla)**
-- **Git & GitHub**
-- **Netlify (Deployment)**
----
+## ✨ Key Features
+- Fully responsive design (mobile & desktop)
+- Clean, modern UI/UX
+- Projects section with live demos and source code
+- Downloadable CV
+- Contact form and direct contact links
+- Optimized for performance and readability
 
-## 📂 Projects Included
+## 📂 Sections Included
+- **Home / Hero** – Introduction and call-to-action  
+- **About** – Background, education, and interests  
+- **Projects** – Selected real-world and internship projects  
+- **Skills** – Frontend, programming, tools, and CMS  
+- **Contact** – Email, phone, LinkedIn, and GitHub  
 
-Some highlighted projects featured on the portfolio:
+## 👨‍💻 My Role
+- Designed and developed the entire website from scratch  
+- Implemented responsive layouts and navigation  
+- Integrated project cards and external live demos  
+- Ensured clean structure, accessibility, and usability  
 
-- **Elevvo Tasks** – Internship-based responsive and interactive tasks  
-- **MivaHub** – Academic team project demonstrating UI design and collaboration  
-- **RentDeport** – Property rental landing page with UX-focused forms  
-- **Bigasheqzi** – Marketing/landing page with clean typography  
-- **My Graphic Design Portfolio** - Designed social media graphics, flyers, and promotional visuals.
+## 🌐 Live Demo
+🔗 **Portfolio Website:** * https://kefasetikufrancis.netlify.app*
 
-Each project includes:
-- Tech stack used
-- Live demo link
-- Source code link
+## 📌 Purpose of This Project
+This portfolio was created to:
+- Present my frontend development journey
+- Showcase practical projects and internships
+- Support applications for **internships and junior frontend/web developer roles**
+- Demonstrate growth, consistency, and real-world skills
 
----
-
-## 📸 Preview
-
-![Portfolio Preview](./preview.png)
-
-
----
-
-## 📬 Contact
-
+## 📫 Contact
 - **Email:** kefasetikufrancis@gmail.com  
 - **Phone:** +234 810 283 9482  
 - **GitHub:** https://github.com/kefras  
@@ -70,11 +58,4 @@ Each project includes:
 
 ---
 
-## 📄 License
-
-This project is open-source and available for learning and inspiration.  
-Feel free to explore, fork, or adapt with credit.
-
----
-
-⭐ If you like this project, consider giving it a star!
+© 2025 Kefas Etiku Francis
