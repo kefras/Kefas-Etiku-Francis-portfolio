@@ -195,6 +195,11 @@ a {
   border: 1px solid var(--border);
 }
 
+.hero-image img:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 30px 60px rgba(51, 50, 50, 0.7);
+}
+
 /* =========================================
    5. ABOUT & RESUME (FIXED GRID LAYOUT)
    ========================================= */
