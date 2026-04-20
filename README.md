@@ -41,7 +41,7 @@ It is designed to be **responsive, accessible, and user-centered**, following mo
 - Ensured clean structure, accessibility, and usability  
 
 ## 🌐 Live Demo
-🔗 **Portfolio Website:** * (kefas1.netlify.app/)*
+🔗 **Portfolio Website:** * [Click Me](https://kefas1.netlify.app/)
 
 ## 📌 Purpose of This Project
 This portfolio was created to:
